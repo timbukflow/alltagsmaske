@@ -1,6 +1,6 @@
 {
-    "name": "Baumgarten",
-    "short_name": "Baumgarten",
+    "name": "",
+    "short_name": "",
     "icons": [
         {
             "src": "/img/favicon/android-chrome-192x192.png",
@@ -8,8 +8,8 @@
             "type": "image/png"
         },
         {
-            "src": "/img/favicon/android-chrome-512x512.png",
-            "sizes": "512x512",
+            "src": "/img/favicon/android-chrome-256x256.png",
+            "sizes": "256x256",
             "type": "image/png"
         }
     ],

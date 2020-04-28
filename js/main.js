@@ -2,58 +2,35 @@ $(document).ready(function () {
     
     setTimeout(function(){$('#loader').fadeOut(800)},800);
     
-    // nav by scroll small //
+    // nav //
     
-    var mainHeader = $('.cd-auto-hide-header'),
-		belowNavHeroContent = $('.sub-nav-hero'),
-		headerHeight = mainHeader.height();
-
-	var scrolling = false,
-		previousTop = 0,
-		currentTop = 0,
-		scrollDelta = 10,
-		scrollOffset = 150;
-
-	mainHeader.on('click', '.nav-trigger', function(event){
-		event.preventDefault();
-		mainHeader.toggleClass('nav-open');
+$('#navburger').click(function(){
+		$(this).stop(true).toggleClass('open');
+        $('.nav').stop(true).fadeToggle(1000);
+        $('.nav ul').stop(true).toggleClass('up');
+        $('.nav li').stop(true).toggleClass('open');
 	});
 
-	$(window).on('scroll', function(){
-		if( !scrolling ) {
-			scrolling = true;
-			(!window.requestAnimationFrame)
-				? setTimeout(autoHideHeader, 250)
-				: requestAnimationFrame(autoHideHeader);
-		}
-	});
-
-	$(window).on('resize', function(){
-		headerHeight = mainHeader.height();
-	});
-
-	function autoHideHeader() {
-		var currentTop = $(window).scrollTop();
-
-		( belowNavHeroContent.length > 0 ) 
-			? checkStickyNavigation(currentTop)
-			: checkSimpleNavigation(currentTop);
-
-	   	previousTop = currentTop;
-		scrolling = false;
-	}
-
-	function checkSimpleNavigation(currentTop) {
-	    if (previousTop - currentTop > scrollDelta) {
-	    	mainHeader.removeClass('is-hidden');
-	    } else if( currentTop - previousTop > scrollDelta && currentTop > scrollOffset) {
-	    	mainHeader.addClass('is-hidden');
-	    }
-	}
+    $('.bookmark').click(function() {
+        var position = $($(this).attr('href')).offset().top - 120;
+        
+        $('#navburger').removeClass('open');
+        $('.nav').fadeToggle(1000);
+        $('.nav ul').removeClass('up');
+        $('.nav li').removeClass('open');
+        $("body, html").animate({scrollTop: position}, 2000);
+    });
+    
+    $('.goto').click(function() {
+        var goto = $($(this).attr('href')).offset().top - 120;
+        
+        $("body, html").animate({scrollTop: goto}, 2000);
+    });
+    
     
     // impressum //
 
-    $('.impressum').click(function() {
+    $('.disclamer').click(function() {
         var totoggle = $(this).attr("data-toggle");
         $(totoggle).slideToggle(500);
         $(totoggle).next().hide();
