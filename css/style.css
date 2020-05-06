@@ -21,10 +21,9 @@ body {
     background-color: #FFDC00;
     padding: 0px;
     height: auto;
-    text-align: center;
 }
     
-h1, h2, h3, h4, p, a, figcaption, input, textarea, button, span, .success  {
+h1, h2, h3, h4, p, a, li, input, textarea, button, span, .success  {
     color: #000000;
     font-weight: 400;
     font-style: normal;
@@ -48,15 +47,34 @@ h1, figcaption span {
 }
 
 h2 {
-    font-size: 21px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    line-height: 1.5;
+    padding: 0 10px;
+    font-size: 32px;
+    margin-bottom: 30px;
+    font-weight: bold;
 }
 
-figcaption {
-    padding: 15px 0px;
+h3 {
+    padding: 12px 0;
+    margin: 0;
 }
+
+ul {
+    text-align: left;
+    padding: 0 10px;
+}
+
+li {
+    border-bottom: 1px #000 solid;
+    padding: 10px 0;
+    list-style-type: none;
+    font-size: 24px;
+}
+
+li.title {
+    font-weight: bold; 
+}
+
+.minus { list-style-image:url(../img/minus.svg) }
 
 
    
@@ -69,14 +87,22 @@ main-nav
 -----------------------------------*/
 #navcontainer {
     width: 70%;
-    margin: 0 15%;
-    position: relative;
+    padding: 0px 15%;
+    background-color: #fff;
+    padding-top: 0px;
+    position: fixed;
+    top: 0;
+    z-index: 999;
 }
 
 .navcovid {
     position: relative;
     width: 80%;
     float: left;
+}
+
+.h3nav {
+        display: inline-block;
 }
 
 
@@ -88,13 +114,9 @@ nav
     float: right;
     width: 25px;
     height: 17px;
-    margin-top: 50px;
+    margin-top: 16px;
     position: relative;
     cursor: pointer;
-    z-index: 11;
-    -webkit-transition: ease 1s;
-    -moz-transition: ease 1s;
-    -o-transition: ease 1s;
     transition: ease 1s;
 }
 
@@ -206,6 +228,13 @@ section {
     display: inline-block;    
 }
 
+.h1top {
+    width: 70%;
+    padding: 40px 15% 0;
+    margin: 0;
+    position: relative;
+}
+
 .h1red {
     font-family: "Arial Black";
     font-weight: 900;
@@ -220,16 +249,33 @@ section {
     text-transform: uppercase;
 }
 
-.threeicon {
-    width: 26%;
+.bestellung {
+    position: fixed;
+    width: 70%;
+    padding: 15px 15%;
+    margin: 0;
+    background-color: #fff;
+    z-index: 99;
+}
+
+.twoicon {
+    width: 45%;
     float: left;
-    margin-right: 11%;
+    margin-right: 10%;
     margin-top: 40px;
 }
 
-.threeicon.r {
+.twoicon.r {
     margin-right: 0;
 }
+
+.productb {
+    padding: 20px 30px;
+    background-color: #00a700;
+    color: #fff;
+    margin: 0;
+}
+
 
 /*---------------------------------- 
     footer

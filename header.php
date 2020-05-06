@@ -1,8 +1,11 @@
 <header>
     <nav id="navcontainer" >  
-        <div class="navcovid">
-            <h1>Swiss Made | Gib den Corona-Viren keine Chance!</h1>
-        </div>
+        <div class="h3nav">
+        <h3>Bestellung:
+            <a href="tel:0712448489">T +41 71 244 84 89 | </a>
+            <a href="mailto:info@alltagsmaske.ch" target="_top">info@alltagsmaske.ch</a>
+        </h3>
+    </div>
         <div id="navburger">
             <span></span>
             <span></span>
@@ -18,3 +21,5 @@
         </div>
     </nav>
 </header>
+
+ 
