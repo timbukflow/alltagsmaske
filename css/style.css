@@ -67,14 +67,28 @@ li {
     border-bottom: 1px #000 solid;
     padding: 10px 0;
     list-style-type: none;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 li.title {
     font-weight: bold; 
 }
 
-.minus { list-style-image:url(../img/minus.svg) }
+.minus:before { 
+content:''; 
+background-image:url(../img/minus.svg); 
+background-size:contain; 
+background-repeat:no-repeat; 
+padding-left: 1.5em;
+}
+
+.plus:before { 
+content:''; 
+background-image:url(../img/plus.svg); 
+background-size:contain; 
+background-repeat:no-repeat; 
+padding-left: 1.5em;
+}
 
 
    
