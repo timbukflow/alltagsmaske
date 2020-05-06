@@ -27,18 +27,15 @@ Hier finden Sie ihn."/>
                 <ul>
                     <li class="title">Was zeichnet den Schutz aus?</li>
                     <li class="plus"><b>Swiss Made</b></li>
+                    <li class="plus">Fremdschutz</li>
                     <li class="plus">sehr preiswert (nur 3 Rp pro Anwendung)</li>
                     <li class="plus">transparent</li>
                     <li class="plus">wiederverwendbar</li>
-                    <li class="plus">Fremdschutz</li>
                     <li class="plus">schützt auch die Augen</li>
                     <li class="plus">verunmöglicht, sich ins Gesicht zu fassen</li>
-                    <li class="plus">bequemes Atmen</li>
-                    <li class="plus">verständliches Sprechen</li>
+                    <li class="plus">bequemes Atmen, verständliches Sprechen</li>
                     <li class="plus">recyclierbar</li>
-                    <li class="plus">hoher Selbstversorgungsgrad in der Schweiz</li>
                     <li class="plus">kann den ganzen Tag getragen werden</li>
-                    <li class="plus">leicht (16 g)</li>
                 </ul>
             </div>
             <div class="twoicon r">
@@ -48,17 +45,15 @@ Hier finden Sie ihn."/>
                 <ul>
                     <li class="title">Was zeichnet den Schutz aus?</li>
                     <li class="minus">Made in China</li>
+                    <li class="plus">Fremdschutz</li>
                     <li class="minus">sehr teuer (Fr. -.65 bis Fr. 1.50 pro Anwendung)</li>
                     <li class="minus">vermummend (in unserer Kultur kaum akzeptiert) </li>
                     <li class="minus">nur Einmalgebrauch</li>
-                    <li class="plus">Fremdschutz</li>
-                    <li class="minus">kein Eigenschutz und schützt die Augen nicht</li>
+                    <li class="minus">schützt die Augen nicht</li>
                     <li class="minus">provoziert ständiges an die Maske und ins Gesicht fassen</li>
                     <li class="minus">Atmen erschwert, Sprechen unverständlich</li>
-                    <li class="minus">unbequem, kann Hautirritationen verursachen</li>
                     <li class="minus">okölogisch unsinnig (Wegwerfartikel)</li>
-                    <li class="minus">sehr hohe Importabhängigkeit vom Ausland</li>
-                    <li class="minus">sollte alle 2-4 Stunden gewechselt werden (wird durchnässt)</li>
+                    <li class="minus">sollte alle 2-4 Stunden gewechselt werden</li>
                 </ul>
             </div>
         </article>    
