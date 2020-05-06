@@ -37,6 +37,7 @@ Hier finden Sie ihn."/>
                     <li class="plus">recyclierbar</li>
                     <li class="plus">kann den ganzen Tag getragen werden</li>
                 </ul>
+                <button>zum Produkt</button>
             </div>
             <div class="twoicon r">
                 <img src="img/alltagsmasken-covid-19-einweg-hygienemaske.svg" alt="alltagsmasken-covid-19-einweg-hygienemaske" style="width:100%">
@@ -44,10 +45,10 @@ Hier finden Sie ihn."/>
                 <h2>Möchten Sie sich wirklich so vermummen?</h2>
                 <ul>
                     <li class="title">Was zeichnet den Schutz aus?</li>
-                    <li class="minus">Made in China</li>
+                    <li class="minus">meistens Made in China</li>
                     <li class="plus">Fremdschutz</li>
                     <li class="minus">sehr teuer (Fr. -.65 bis Fr. 1.50 pro Anwendung)</li>
-                    <li class="minus">vermummend (in unserer Kultur kaum akzeptiert) </li>
+                    <li class="minus">vermummend</li>
                     <li class="minus">nur Einmalgebrauch</li>
                     <li class="minus">schützt die Augen nicht</li>
                     <li class="minus">provoziert ständiges an die Maske und ins Gesicht fassen</li>
@@ -55,29 +56,11 @@ Hier finden Sie ihn."/>
                     <li class="minus">okölogisch unsinnig (Wegwerfartikel)</li>
                     <li class="minus">sollte alle 2-4 Stunden gewechselt werden</li>
                 </ul>
+                <button>zum Produkt</button>
             </div>
         </article>    
     </section>
-    
-    <section>
-        <article> 
-            <h1>Mit diesen Produkten können Sie sich von den Tröpfchen schützen!</h1>
-            <figure class="threeicon">
-                <img src="img/alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-neu.svg" alt="alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-neu" style="width:100%">
-                <figcaption><span>Enger Kontakt:</span><br> Wenn man zu einer erkrankten Person weniger als zwei Meter Abstand h&auml;lt.</figcaption>
-            </figure>
-            <figure class="threeicon">
-                <img src="img/alltagsmasken-covid-19-hygienemasken.svg" alt="alltagsmasken-covid-19-hygienemasken" style="width:100%">
-                <figcaption><span>Tr&ouml;pfchen:</span><br> Niest oder hustet eine erkrankte Person, k&ouml;nnen die Viren direkt auf die Schleimh&auml;ute von Nase, Mund oder Augen eines anderen Menschen gelangen.</figcaption>
-            </figure>
-            <figure class="threeicon r">
-                <img src="img/alltagsmasken-covid-19-atemschutzmaske-ffp2.svg" alt="alltagsmasken-covid-19-atemschutzmaske-ffp2" style="width:100%">
-                <figcaption><span>H&auml;nde:</span><br> Ansteckende Tr&ouml;pfchen gelangen beim Husten und Niesen oder Ber&uuml;hren der Schleimh&auml;ute auf die H&auml;nde. Von da aus werden die Viren auf Oberfl&auml;chen &uuml;bertragen. Eine andere Person kann von da aus die Viren auf ihre H&auml;nde &uuml;bertragen und so gelangen sie an Mund, Nase oder Augen, wenn man sich ins Gesicht fasst.</figcaption>
-            </figure>
-            <p>Wenn Sie sich im Alltag in jeder Situation zu 100 % an die Verhaltens- und Hygieneregeln des Bundesamtes für Gesundheit BAG halten können brauchen Sie keinen Schutz für Augen, Mund und Nase. Kaufen Sie kein Produkt, wenn sie keines brauchen.</p>
-        </article>    
-    </section>
-    
+        
     <?php include 'footer.php'; ?>
     <?php include 'script.php'; ?>
 
