@@ -3,8 +3,7 @@
         <div class="footerkontakt">   
             <p>
                 <strong>Bestellungen und Anfragen bei:</strong><br>
-                Dressland AG<br>
-                CH-9240 Uzwil<br>
+                Alltagsmaske<br>
                 <a href="tel:0712448489">T +41 71 244 84 89</a><br>
                 <a href="mailto:info@alltagsmaske.ch" target="_top">info@alltagsmaske.ch</a><br>  
             </p>

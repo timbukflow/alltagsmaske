@@ -11,20 +11,19 @@ Hier finden Sie ihn."/>
     
 <body>
     <?php include 'header.php'; ?>
-    <div class="h1top">
-            <h1>Sie suchen den passenden Schutz für Ihren Alltag?</h1>
-    </div>
     <div>
-        <h1 class="h1red">Alltagsmaske</h1>
+        <h1 class="h1red">Alltagsmaske.ch</h1>
     </div>
     <section>
         <article> 
-            <h1>Welche Art von Schutz gefällt Ihnen besser?</h1>
+            <h1>Sie suchen den passenden Schutz für Ihren Alltag? </h1>
+            <h2>Welche Art von Schutz gefällt Ihnen besser?</h2>
             <div class="twoicon">
                 <img src="img/alltagsmasken-covid-19-gesichtsschutzscheibe.svg" alt="alltagsmasken-covid-19-gesichtsschutzscheibe" style="width:100%">
                 <h1 class="productb">Gesichtsschutzscheibe</h1>
-                <h2>Zeigen Sie weiterhin Ihr unverhülltes Gesicht.</h2>
-                <p>d</p>
+                <h1>Zeigen Sie weiterhin Ihr unverhülltes Gesicht.</h1>
+                <p>Die wiederverwendbare Schutzscheibe passt auf jede Brille. Sie ist ideal im ÖV, beim Arbeiten, Einkaufen und überall wo Sie den Abstand zu den Mitmenschen nicht sicher einhalten können.
+                </p>
                 <ul>
                     <li class="title">Was zeichnet den Schutz aus?</li>
                     <li class="plus">Swiss Made</li>
@@ -38,12 +37,14 @@ Hier finden Sie ihn."/>
                     <li class="plus">recyclierbar</li>
                     <li class="plus">kann den ganzen Tag getragen werden</li>
                 </ul>
-                <button>zum Produkt</button>
+                <button><a href="gesichtsschutzscheibe">zur Preisliste</a></button>
             </div>
             <div class="twoicon r">
                 <img src="img/alltagsmasken-covid-19-einweg-hygienemaske.svg" alt="alltagsmasken-covid-19-einweg-hygienemaske" style="width:100%">
                 <h1 class="productb">Einweg-Hygienemaske</h1>
-                <h2>Möchten Sie sich wirklich so vermummen?</h2>
+                <h1>Möchten Sie sich wirklich so vermummen?</h1>
+                <p>Die Einweg-Hygienemaske kostet viel pro Anwendung, weil sie nach kurzer Zeit durchfeuchtet ist und entsorgt werden muss. Sie ist aus wirtschaftlichen und ökologischen Aspekten ein Unsinn.			
+                </p>
                 <ul>
                     <li class="title">Was zeichnet den Schutz aus?</li>
                     <li class="minus">meistens Made in China</li>
@@ -57,7 +58,7 @@ Hier finden Sie ihn."/>
                     <li class="minus">Wegwerfartikel</li>
                     <li class="minus">sollte alle 2-4 Stunden gewechselt werden</li>
                 </ul>
-                <button>zum Produkt</button>
+                <button><a href="einweg-hygienemaske">zur Preisliste</a></button>
             </div>
         </article>    
     </section>
