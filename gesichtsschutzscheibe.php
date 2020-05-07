@@ -24,13 +24,13 @@ Hier finden Sie ihn."/>
             <div class="twoicon r">
                 <h1>Preisliste <span>(Set mit 2 Stück)</span></h1>
                 <ul>
-                    <li class="title">1 - 49 <span>Fr. 20.00 inklusive MWST, zzgl. Porto</span></li>
-                    <li class="title">ab 50 <span>9.50 Fr.</span></li>
+                    <li class="title">1 - 49 <span>Fr. 20.00</span></li>
+                    <li class="title">50 - 2'999 <span>Fr. 9.50 </span></li>
                     <li class="title">grössere Mengen<span>auf Anfrage</span></li>
                     <li class="title">Lieferfrist<span>sofort ab Lager</span></li>
                     <li class="title">Zahlung <span>auf Rechnung</span></li>
                 </ul>
-                <p>Erhältlich bei Apotheker und Drogisten in Ihrer Region oder direkt bei alltagsmaske.ch.</p>
+                <p>Erhältlich auch bei Apotheken und Drogerien in Ihrer Region.</p>
             </div>
         </article>    
     </section>
