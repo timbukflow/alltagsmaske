@@ -40,7 +40,7 @@ Hier finden Sie ihn."/>
                     <li class="plus">recyclierbar</li>
                     <li class="plus">kann den ganzen Tag getragen werden</li>
                 </ul>
-                <a class="button" href="gesichtsschutzscheibe">zur Preisliste</a>
+                <div class="button"><a href="gesichtsschutzscheibe">zur Preisliste</a></div>
             </div>
             <div class="twoicon r">
                 <a href="einweg-hygienemaske">
