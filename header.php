@@ -14,9 +14,9 @@
         </div>
         <div class="nav">
             <ul>
-                <li><a href="stresstest">01</a></li>
-                <li><a href="angebot">02</a></li>
-                <li><a href="kontakt">03</a></li>
+                <li><a href="index">Alltagsmaske</a></li>
+                <li><a href="gesichtsschutzscheibe">Gesichtsschutzscheibe</a></li>
+                <li><a href="einweg-hygienemaske">Einweg-Hygienemaske</a></li>
             </ul>
         </div>
     </nav>
