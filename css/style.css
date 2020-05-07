@@ -109,7 +109,7 @@ h1.mask {
     background-image:url(../img/minus.svg); 
     background-size:contain; 
     background-repeat:no-repeat; 
-    display: inline-block;
+    display: inline;
     width: 10px; 
     height: 20px;
     padding-left: 1.5em;
@@ -302,8 +302,8 @@ section {
 }
 
 .h1red {
-    font-family: "Arial Black";
-    font-weight: 900;
+    font-family:"Arial Black", "Arial Bold", Helvetica, sans-serif;
+    font-weight: bolder;
     font-size: 75px;
     width: 70%;
     padding: 26px 15%;
@@ -405,6 +405,10 @@ footer {
     display: inline-block;
     margin-left: 20px;
 }
+#optoutbanner99 p{
+	padding: 0;
+}
+
 
 #acceptga {
 	text-decoration: none !important;
