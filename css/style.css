@@ -35,8 +35,8 @@ h1, h2, h3, h4, p, a, li, input, textarea, button, span, .success  {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     
-    -ms-word-break: break-all;
-     word-break: break-all;
+    -ms-word-break: normal;
+     word-break: normal;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     -ms-hyphens: auto;
