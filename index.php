@@ -64,7 +64,7 @@ Hier finden Sie ihn."/>
                     <li class="minus">Wegwerfartikel</li>
                     <li class="minus">alle 2-4 Stunden wechseln</li>
                 </ul>
-                <a class="button" href="einweg-hygienemaske">zur Preisliste</a>
+                <div class="button"><a href="einweg-hygienemaske">zur Preisliste</a></div>
             </div>
         </article>    
     </section>
