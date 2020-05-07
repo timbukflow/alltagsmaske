@@ -19,7 +19,7 @@ Hier finden Sie ihn."/>
             <h1>Hygienemaske Typ I</h1>
             <div class="twoicon">
                 <img src="img/alltagsmasken-covid-19-hygienemaske.jpg" alt="alltagsmasken-covid-19-hygienemaske" style="width:100%">
-                <h1 class="productb">Wir können sofort liefern!</h1>
+                <h1 class="productb">Sofort lieferbar!</h1>
             </div>
             <div class="twoicon r">
                 <p class="wichtig">Die 3-lagigen Masken Typ I sind CE- und FDA-zertifiziert. Sie sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich).</p>
@@ -32,7 +32,7 @@ Hier finden Sie ihn."/>
                     <li class="title">32’000<span>Fr. 0.58</span></li>
                     <li class="title">192’000<span>Fr. 0.55</span></li>
                 </ul>
-                <p class="preiszusatz">- Grössere Mengen (gerne auch Abrufaufträge) auf Anfrage<br>- Der Zwischenverkauf bleibt vorbehalten: «first come, first served»<br>- Verpackung: Box à 50 Stück, Versandkarton mit 40 Boxen à 50 Stück = 2’000 Stück<br>- Zahlung nach Absprache (i.d.R. mit Rechnung zahlbar sofort bei Lieferung rein netto)<br>- Preise in CHF, zuzüglich Porto und 7,7 % MWST</p>
+                <p class="preiszusatz">Verpackung: Box à 50 Stück<br>Preise: in CHF, zuzüglich Porto und 7,7 % MWST</p>
             </div>
         </article>
         <article class="maskencontainer"> 
@@ -41,7 +41,9 @@ Hier finden Sie ihn."/>
                 <img src="img/alltagsmasken-covid-19-hygienemaske-typ-2.jpg" alt="alltagsmasken-covid-19-hygienemaske-typ-2" style="width:100%">
             </div>
             <div class="twoicon r">
-                <p><br>Die 3-lagigen Masken Typ II sind CE- und FDA-zertifiziert, Bakterienfiltrationseffizienz BFE >98 % Die Masken sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich). Das Bundesamt für Gesundheit empfiehlt die Verwendung dieser Qualität für Gesundheitspersonal sowie für Alters- und Pflegeheime. Gemäss Pandemieplan rät das BAG jeder Privatperson einen Notvorrat von 50 solcher Masken anzulegen. Es handelt sich nicht um ein zulassungspflichtiges Medizinprodukt gemäss Heilmittelgesetz HMG.</p>
+                <p class="wichtig">Die 3-lagigen Masken Typ II sind CE- und FDA-zertifiziert. Sie sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich). Das Bundesamt für Gesundheit empfiehlt die Verwendung dieser Qualität für Gesundheitspersonal sowie für Alters- und Pflegeheime. Gemäss Pandemieplan rät das BAG jeder Privatperson einen Notvorrat von 50 solcher Masken anzulegen. Es handelt sich nicht um ein zulassungspflichtiges Medizinprodukt gemäss Heilmittelgesetz HMG.</p>
+                <p class="wichtig"><b>Bakterienfiltrationseffizienz BFE ≥98 %</b></p>
+            
                 <ul>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
                     <li class="title">2’000<span>1.05 Fr.</span></li>
