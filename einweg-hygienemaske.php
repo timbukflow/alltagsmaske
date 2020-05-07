@@ -46,12 +46,12 @@ Hier finden Sie ihn."/>
             
                 <ul>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
-                    <li class="title">2’000<span>1.05 Fr.</span></li>
-                    <li class="title">6’000<span>0.99 Fr.</span></li>
-                    <li class="title">10’000<span>0.95 Fr.</span></li>
-                    <li class="title">32’000<span>0.85 Fr.</span></li>
+                    <li class="title">2’000<span>Fr. 1.05</span></li>
+                    <li class="title">6’000<span>Fr. 0.99</span></li>
+                    <li class="title">10’000<span>Fr. 0.95</span></li>
+                    <li class="title">32’000<span>Fr. 0.85</span></li>
                 </ul>
-                <p class="preiszusatz">- Grössere Mengen (gerne auch Abrufaufträge) auf Anfrage<br>- Der Zwischenverkauf bleibt vorbehalten: «first come, first served»<br>- Verpackung: Box à 50 Stück, Versandkarton mit 40 Boxen à 50 Stück = 2’000 Stück<br>- Zahlung nach Absprache (i.d.R. mit Rechnung zahlbar sofort bei Lieferung rein netto)<br>- Preise in CHF, zuzüglich Porto und 7,7 % MWST</p>
+                <p class="preiszusatz">Verpackung: Box à 50 Stück<br>Preise: in CHF, zuzüglich Porto und 7,7 % MWST</p>
             </div>
         </article>
         <article class="maskencontainer"> 
@@ -59,15 +59,17 @@ Hier finden Sie ihn."/>
             <div class="twoicon">
                 <img src="img/alltagsmasken-covid-19-atemschutzmasken-ffp-2.jpg" alt="alltagsmasken-covid-19-atemschutzmasken-ffp-2" style="width:100%">
             </div>
-            <div class="twoicon r">
-                <p>Die 4-lagigen Schutzmasken der Schutzklasse FFP2/KN95 entsprechen der Norm EN 149:2001+A1:2009, CE- und FDA-zertifiziert Bakterienfiltrationseffizienz BFE 95 % Das Bundesamt für Gesundheit empfiehlt die Verwendung dieser Qualität für medizinisches Personal zum Eigenschutz vor Infektionen. Zudem eignet sie sich für Bauarbeiter, Lackierer und für Arbeiten mit Feinstaubbelastung. Es handelt sich nicht um ein zulassungspflichtiges Medizinprodukt gemäss Heilmittelgesetz HMG.</p>
+            <div class="twoicon r">            
+                <p class="wichtig">Die 4-lagigen Masken der Schutzklasse FFP2/KN95 entsprechen der Norm EN 149:2001+A1:2009, sie sind CE- und FDA-zertifiziert. Das Bundesamt für Gesundheit empfiehlt die Verwendung dieser Qualität für medizinisches Personal zum Eigenschutz vor Infektionen. Zudem eignet sie sich für Bauarbeiter, Lackierer und für Arbeiten mit Feinstaubbelastung. Es handelt sich nicht um ein zulassungspflichtiges Medizinprodukt gemäss Heilmittelgesetz HMG.</p>
+                <p class="wichtig"><b>Bakterienfiltrationseffizienz BFE ≥95 %</b></p>
+                
                 <ul>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
-                    <li class="title">120<span>6.90 Fr.</span></li>
-                    <li class="title">480<span>6.50 Fr.</span></li>
-                    <li class="title">2'500<span>5.70 Fr.</span></li>
+                    <li class="title">100<span>Fr. 6.90</span></li>
+                    <li class="title">500<span>Fr. 6.30</span></li>
+                    <li class="title">2'500<span>Fr. 5.70</span></li>
                 </ul>
-                <p class="preiszusatz">- Grössere Mengen (gerne auch Abrufaufträge) auf Anfrage<br>- Der Zwischenverkauf bleibt vorbehalten: «first come, first served»<br>- Verpackung: einzeln in Plastikbeutel eingeschweisst, Box à 40 Stück<br>- Zahlung nach Absprache (i.d.R. mit Rechnung zahlbar sofort bei Lieferung rein netto)<br>- Preise in CHF, zuzüglich Porto und 7,7 % MWST</p>
+                <p class="preiszusatz">Verpackung: einzeln in Plastikbeutel eingeschweisst, Box à 50 Stück<br>Preise: in CHF, zuzüglich Porto und 7,7 % MWST</p>
             </div>
         </article>
     </section>

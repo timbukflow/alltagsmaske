@@ -415,13 +415,14 @@ footer {
 responsive ipad
 -----------------------------------*/
 
-@media only screen and (max-width: 1270px) {
+@media only screen and (max-width: 1300px) {
     .h1red {font-size: 65px; width: 90%; padding: 26px 5%;}
     h1 {font-size: 34px;}
     h2 {font-size: 26px;}
     p, p a, li {font-size: 18px;}
     section {width: 90%; margin: 0 5%;}
     #navcontainer, footer {width: 90%; padding: 0 5%;} 
+    .maskencontainer {margin-bottom: 20px;}
 }
     
 @media only screen and (max-width: 860px) {
@@ -437,6 +438,7 @@ responsive ipad
 
 @media only screen and (max-width: 740px) {
     .twoicon {margin-right: 0; width: 100%}
+    .maskencontainer {margin-bottom: 0px;}
 }
 
 @media only screen and (max-width: 510px) {
