@@ -23,7 +23,7 @@ Hier finden Sie ihn."/>
             </div>
             <div class="twoicon r">
                 <p class="wichtig">Die 3-lagigen Masken Typ I sind CE- und FDA-zertifiziert. Sie sind für den alltäglichen Gebrauch bestimmt.</p>
-                <p class="wichtig"><b>Bakterienfiltrationseffizienz BFE ≥95 %</b></p>
+                <p class="wichtig"><b>Bakterienfiltrationseffizienz BFE ≥96 %</b></p>
                 <ul>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
                     <li class="title">2’000<span>Fr. 0.64</span></li>
