@@ -22,8 +22,8 @@ Hier finden Sie ihn."/>
                 <h1 class="productb">Wir können sofort liefern!</h1>
             </div>
             <div class="twoicon r">
-                <h2 class="mask">Angebot für Grossabnehmer wie Behörden, Branchenverbände und Grossisten.</h2>
-                <p>Die 3-lagigen Masken Typ I sind CE- und FDA-zertifiziert, Bakterienfiltrationseffizienz BFE >95 % Die Masken sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich). </p>
+                <h2>Die 3-lagigen Masken Typ I sind CE- und FDA-zertifiziert. Sie sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich).</h2>
+                <p>Bakterienfiltrationseffizienz BFE ≥ 95 %</p>
                 <ul>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
                     <li class="title">2’000<span>0.64 Fr.</span></li>
@@ -41,7 +41,7 @@ Hier finden Sie ihn."/>
                 <img src="img/alltagsmasken-covid-19-hygienemaske-typ-2.jpg" alt="alltagsmasken-covid-19-hygienemaske-typ-2" style="width:100%">
             </div>
             <div class="twoicon r">
-                <p><b>Angebot für Grossabnehmer wie Behörden, Branchenverbände und Grossisten.</b><br>Die 3-lagigen Masken Typ II sind CE- und FDA-zertifiziert, Bakterienfiltrationseffizienz BFE >98 % Die Masken sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich). Das Bundesamt für Gesundheit empfiehlt die Verwendung dieser Qualität für Gesundheitspersonal sowie für Alters- und Pflegeheime. Gemäss Pandemieplan rät das BAG jeder Privatperson einen Notvorrat von 50 solcher Masken anzulegen. Es handelt sich nicht um ein zulassungspflichtiges Medizinprodukt gemäss Heilmittelgesetz HMG.</p>
+                <p><br>Die 3-lagigen Masken Typ II sind CE- und FDA-zertifiziert, Bakterienfiltrationseffizienz BFE >98 % Die Masken sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich). Das Bundesamt für Gesundheit empfiehlt die Verwendung dieser Qualität für Gesundheitspersonal sowie für Alters- und Pflegeheime. Gemäss Pandemieplan rät das BAG jeder Privatperson einen Notvorrat von 50 solcher Masken anzulegen. Es handelt sich nicht um ein zulassungspflichtiges Medizinprodukt gemäss Heilmittelgesetz HMG.</p>
                 <ul>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
                     <li class="title">2’000<span>1.05 Fr.</span></li>

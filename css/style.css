@@ -43,7 +43,6 @@ h1, h2, h3, h4, p, a, li, input, textarea, button, span, .success  {
     -moz-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto;
-
     text-decoration: none;
 }
 
@@ -61,6 +60,11 @@ h2 {
     margin-bottom: 20px;
     letter-spacing: 0.75px;
     margin-top: 0;
+}
+
+.twoicon h2 {
+    font-size: 28px;
+    line-height: 1.3;
 }
 
 h3 {

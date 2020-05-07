@@ -22,7 +22,7 @@ Hier finden Sie ihn."/>
                 <h1 class="productb">Gesichtsschutzscheibe</h1>
             </div>
             <div class="twoicon r">
-                <h1>Preisliste <span>(Set mit 2 Stück)</span></h1>
+                <h1>Preisliste <span>(pro Set mit 2 Stück)</span></h1>
                 <ul>
                     <li class="title">1 - 49 <span>Fr. 20.00</span></li>
                     <li class="title">50 - 2'999 <span>Fr. 9.50 </span></li>
