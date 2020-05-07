@@ -99,6 +99,11 @@ h1.mask {
     margin-top: 10px;
 }
 
+.wichtig {
+    margin: 0;
+    padding-bottom: 15px;;
+}
+
 .minus:before { 
 content:''; 
 background-image:url(../img/minus.svg); 

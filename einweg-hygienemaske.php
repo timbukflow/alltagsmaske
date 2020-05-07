@@ -22,14 +22,15 @@ Hier finden Sie ihn."/>
                 <h1 class="productb">Wir können sofort liefern!</h1>
             </div>
             <div class="twoicon r">
-                <p>Die 3-lagigen Masken Typ I sind CE- und FDA-zertifiziert. Sie sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich). Bakterienfiltrationseffizienz BFE ≥95 %</p>
+                <p class="wichtig">Die 3-lagigen Masken Typ I sind CE- und FDA-zertifiziert. Sie sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich).</p>
+                <p class="wichtig"><b>Bakterienfiltrationseffizienz BFE ≥95 %</b></p>
                 <ul>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
-                    <li class="title">2’000<span>0.64 Fr.</span></li>
-                    <li class="title">6’000<span>0.61 Fr.</span></li>
-                    <li class="title">10’000<span>0.56 Fr.</span></li>
-                    <li class="title">32’000<span>0.59 Fr.</span></li>
-                    <li class="title">192’000<span>0.57 Fr.</span></li>
+                    <li class="title">2’000<span>Fr. 0.64</span></li>
+                    <li class="title">6’000<span>Fr. 0.61</span></li>
+                    <li class="title">10’000<span>Fr. 0.59</span></li>
+                    <li class="title">32’000<span>Fr. 0.58</span></li>
+                    <li class="title">192’000<span>Fr. 0.55</span></li>
                 </ul>
                 <p class="preiszusatz">- Grössere Mengen (gerne auch Abrufaufträge) auf Anfrage<br>- Der Zwischenverkauf bleibt vorbehalten: «first come, first served»<br>- Verpackung: Box à 50 Stück, Versandkarton mit 40 Boxen à 50 Stück = 2’000 Stück<br>- Zahlung nach Absprache (i.d.R. mit Rechnung zahlbar sofort bei Lieferung rein netto)<br>- Preise in CHF, zuzüglich Porto und 7,7 % MWST</p>
             </div>
