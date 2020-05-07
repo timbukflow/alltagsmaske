@@ -7,7 +7,7 @@
                 <a href="mailto:info@alltagsmaske.ch" target="_top">info@alltagsmaske.ch</a><br>  
             </p>
             
-            <p class="disclamer">© 2020 Dressland AG. All rights reserved | <span class="disclamer" data-toggle="#datenschutz">Disclamer</span></p>
+            <p class="disclamer">© 2020 Dressland AG, Taaholzstrasse 13, CH-9240 Uzwil | All rights reserved | <span class="disclamer" data-toggle="#datenschutz">Disclaimer</span></p>
         </div>
     </div>
         <div id="datenschutz">
