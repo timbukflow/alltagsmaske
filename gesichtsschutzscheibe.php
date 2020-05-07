@@ -16,7 +16,7 @@ Hier finden Sie ihn."/>
     </div>
     <section>
         <article> 
-            <h1>Schützen Sie Ihr ganzes Gesicht</h1>
+            <h1>Schützen Sie Ihr ganzes Gesicht.</h1>
             <div class="twoicon">
                 <img src="img/alltagsmasken-covid-19-gesichtsschutzscheibe.svg" alt="alltagsmasken-covid-19-gesichtsschutzscheibe" style="width:100%">
                 <h1 class="productb">Gesichtsschutzscheibe</h1>
@@ -29,7 +29,8 @@ Hier finden Sie ihn."/>
                     <li class="title">grössere Mengen<span>auf Anfrage</span></li>
                     <li class="title">Lieferfrist<span>sofort ab Lager</span></li>
                 </ul>
-                <p>Erhältlich auch bei Apotheken und Drogerien in Ihrer Region.</p>
+            <p class="preiszusatz">Preise: 1 - 49 zuzüglich Porto, inklusive MWST<br>Preise: ≥50 zuzüglich Porto und 7.7 % MWST<br></p>
+                <p class="wichtig"><b>Erhältlich auch bei Apotheken und Drogerien in Ihrer Region.</b></p>
             </div>
         </article>    
     </section>
