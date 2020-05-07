@@ -22,10 +22,10 @@ Hier finden Sie ihn."/>
                 <h1 class="productb">Gesichtsschutzscheibe</h1>
             </div>
             <div class="twoicon r">
-                <h1>Preisliste</h1>
+                <h1>Preisliste <span>(Set mit 2 Stück)</span></h1>
                 <ul>
-                    <li class="title">1 - 49 (Set mit 2 Stück)<span>20.00 Fr.</span></li>
-                    <li class="title">ab 50 (Set mit 2 Stück)<span>9.50 Fr.</span></li>
+                    <li class="title">1 - 49 <span>Fr. 20.00 inklusive MWST, zzgl. Porto</span></li>
+                    <li class="title">ab 50 <span>9.50 Fr.</span></li>
                     <li class="title">grössere Mengen<span>auf Anfrage</span></li>
                     <li class="title">Lieferfrist<span>sofort ab Lager</span></li>
                     <li class="title">Zahlung <span>auf Rechnung</span></li>
