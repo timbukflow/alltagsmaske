@@ -12,7 +12,7 @@ Hier finden Sie ihn."/>
 <body>
     <?php include 'header.php'; ?>
     <div>
-        <h1 class="h1red">Einweg-Hygienemaske</h1>
+        <h1 class="h1red">Einweg-Hygienemasken</h1>
     </div>
     <section>
         <article class="maskencontainer"> 
@@ -22,7 +22,7 @@ Hier finden Sie ihn."/>
                 <h1 class="productb">Sofort lieferbar!</h1>
             </div>
             <div class="twoicon r">
-                <p class="wichtig">Die 3-lagigen Masken Typ I sind CE- und FDA-zertifiziert. Sie sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich).</p>
+                <p class="wichtig">Die 3-lagigen Masken Typ I sind CE- und FDA-zertifiziert. Sie sind für den alltäglichen Gebrauch bestimmt.</p>
                 <p class="wichtig"><b>Bakterienfiltrationseffizienz BFE ≥95 %</b></p>
                 <ul>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
@@ -42,7 +42,7 @@ Hier finden Sie ihn."/>
                 <h1 class="productb">Sofort lieferbar!</h1>
             </div>
             <div class="twoicon r">
-                <p class="wichtig">Die 3-lagigen Masken Typ II sind CE- und FDA-zertifiziert. Sie sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich). Das Bundesamt für Gesundheit empfiehlt die Verwendung dieser Qualität für Gesundheitspersonal sowie für Alters- und Pflegeheime. Gemäss Pandemieplan rät das BAG jeder Privatperson einen Notvorrat von 50 solcher Masken anzulegen. Es handelt sich nicht um ein zulassungspflichtiges Medizinprodukt gemäss Heilmittelgesetz HMG.</p>
+                <p class="wichtig">Die 3-lagigen Masken Typ II sind CE- und FDA-zertifiziert. Sie sind für den alltäglichen Gebrauch bestimmt.<br><br> Das Bundesamt für Gesundheit empfiehlt die Verwendung dieser Qualität für Gesundheitspersonal sowie für Alters- und Pflegeheime. Gemäss Pandemieplan rät das BAG jeder Privatperson einen Notvorrat von 50 solcher Masken anzulegen.</p>
                 <p class="wichtig"><b>Bakterienfiltrationseffizienz BFE ≥98 %</b></p>
             
                 <ul>
@@ -62,7 +62,7 @@ Hier finden Sie ihn."/>
                 <h1 class="productb">Sofort lieferbar!</h1>
             </div>
             <div class="twoicon r">            
-                <p class="wichtig">Die 4-lagigen Masken der Schutzklasse FFP2/KN95 entsprechen der Norm EN 149:2001+A1:2009, sie sind CE- und FDA-zertifiziert. Das Bundesamt für Gesundheit empfiehlt die Verwendung dieser Qualität für medizinisches Personal zum Eigenschutz vor Infektionen. Zudem eignet sie sich für Bauarbeiter, Lackierer und für Arbeiten mit Feinstaubbelastung. Es handelt sich nicht um ein zulassungspflichtiges Medizinprodukt gemäss Heilmittelgesetz HMG.</p>
+                <p class="wichtig">Die 4-lagigen Masken der Schutzklasse FFP2/KN95 entsprechen der Norm EN 149:2001+A1:2009, sie sind CE- und FDA-zertifiziert.<br><br> Das Bundesamt für Gesundheit empfiehlt die Nutzung dieser Qualität für medizinisches Personal zum Eigenschutz vor Infektionen. Zudem eignet sie sich für Bauarbeiter, Lackierer und für Arbeiten mit Feinstaubbelastung.</p>
                 <p class="wichtig"><b>Bakterienfiltrationseffizienz BFE ≥95 %</b></p>
                 
                 <ul>

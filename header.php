@@ -16,7 +16,7 @@
             <ul>
                 <li><a href="index">Alltagsmaske</a></li>
                 <li><a href="gesichtsschutzscheibe">Gesichtsschutzscheibe</a></li>
-                <li><a href="einweg-hygienemaske">Einweg-Hygienemaske</a></li>
+                <li><a href="einweg-hygienemaske">Einweg-Hygienemasken</a></li>
             </ul>
         </div>
     </nav>
