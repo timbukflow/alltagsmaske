@@ -34,14 +34,11 @@ h1, h2, h3, h4, p, a, li, input, textarea, button, span, .success  {
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    overflow-wrap: break-word;
+    
     word-wrap: break-word;
-    -ms-word-break: normal;
-    word-break: normal;
-    word-break: break-word;
-    -ms-hyphens: auto;
-    -moz-hyphens: auto;
+    overflow-wrap: break-word;
     -webkit-hyphens: auto;
+    -moz-hyphens: auto;
     hyphens: auto;
     text-decoration: none;
 }
@@ -112,8 +109,7 @@ h1.mask {
     display: inline-block;
     width: 10px; 
     height: 20px;
-    padding-left: 1.5em;
-    padding-right: 12px;
+    padding-left: 1.3em;
     vertical-align: middle;
 }
 
@@ -125,8 +121,7 @@ h1.mask {
     display: inline-block;
     width: 10px; 
     height: 20px;
-    padding-left: 1.5em;
-    padding-right: 12px;
+    padding-left: 1.3em;
     vertical-align: middle;
 }
 
@@ -430,7 +425,7 @@ responsive ipad
 -----------------------------------*/
 
 @media only screen and (max-width: 1300px) {
-    .h1red {font-size: 65px; width: 90%; padding: 26px 5%;}
+    .h1red {font-size: 60px; width: 90%; padding: 26px 5%;}
     h1 {font-size: 34px;}
     h2 {font-size: 26px;}
     p, p a, li {font-size: 18px;}
