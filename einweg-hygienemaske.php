@@ -22,8 +22,7 @@ Hier finden Sie ihn."/>
                 <h1 class="productb">Wir können sofort liefern!</h1>
             </div>
             <div class="twoicon r">
-                <h2>Die 3-lagigen Masken Typ I sind CE- und FDA-zertifiziert. Sie sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich).</h2>
-                <p>Bakterienfiltrationseffizienz BFE ≥ 95 %</p>
+                <p>Die 3-lagigen Masken Typ I sind CE- und FDA-zertifiziert. Sie sind für den gewerblichen und privaten Gebrauch bestimmt (nicht im sterilen medizinischen Bereich). Bakterienfiltrationseffizienz BFE ≥95 %</p>
                 <ul>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
                     <li class="title">2’000<span>0.64 Fr.</span></li>
