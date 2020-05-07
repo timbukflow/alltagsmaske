@@ -35,14 +35,10 @@ h1, h2, h3, h4, p, a, li, input, textarea, button, span, .success  {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     
-    word-wrap: break-word;
-    overflow-wrap: break-word;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     -ms-hyphens: auto;
     hyphens: auto;
-    hyphenate-limit-chars: auto 5;
-    hyphenate-limit-lines: 2;
     text-decoration: none;
 }
 
