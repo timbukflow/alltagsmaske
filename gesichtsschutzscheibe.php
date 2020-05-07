@@ -28,7 +28,6 @@ Hier finden Sie ihn."/>
                     <li class="title">50 - 2'999 <span>Fr. 9.50 </span></li>
                     <li class="title">grössere Mengen<span>auf Anfrage</span></li>
                     <li class="title">Lieferfrist<span>sofort ab Lager</span></li>
-                    <li class="title">Zahlung <span>auf Rechnung</span></li>
                 </ul>
                 <p>Erhältlich auch bei Apotheken und Drogerien in Ihrer Region.</p>
             </div>
@@ -37,7 +36,9 @@ Hier finden Sie ihn."/>
     
     <section>
         <article class="imgcontainer"> 
-            <h1>Anwendungsbeispiele</h1>
+            <h1>Zeigen Sie Ihr unverhülltes Gesicht.</h1>
+            <p>Die wiederverwendbare Schutzscheibe passt auf jede Brille. Sie ist ideal im ÖV, beim Arbeiten, Einkaufen und überall wo Sie den Abstand zu den Mitmenschen nicht sicher einhalten können.
+            </p>
             <div class="fouricon">
                 <img src="img/alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-troepfchen-foto-01.jpg" alt="alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-troepfchen" style="width:100%">
             </div>

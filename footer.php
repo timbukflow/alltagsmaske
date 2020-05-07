@@ -3,7 +3,6 @@
         <div class="footerkontakt">   
             <p>
                 <strong>Bestellungen und Anfragen bei:</strong><br>
-                Alltagsmaske<br>
                 <a href="tel:0712448489">T +41 71 244 84 89</a><br>
                 <a href="mailto:info@alltagsmaske.ch" target="_top">info@alltagsmaske.ch</a><br>  
             </p>

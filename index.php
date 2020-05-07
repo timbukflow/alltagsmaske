@@ -23,7 +23,7 @@ Hier finden Sie ihn."/>
                     <img src="img/alltagsmasken-covid-19-gesichtsschutzscheibe.svg" alt="alltagsmasken-covid-19-gesichtsschutzscheibe" style="width:100%">
                     <h1 class="productb">Gesichtsschutzscheibe</h1>
                 </a>
-                <h1>Zeigen Sie weiterhin Ihr unverhülltes Gesicht.</h1>
+                <h1>Zeigen Sie Ihr unverhülltes Gesicht.</h1>
                 <p>Die wiederverwendbare Schutzscheibe passt auf jede Brille. Sie ist ideal im ÖV, beim Arbeiten, Einkaufen und überall wo Sie den Abstand zu den Mitmenschen nicht sicher einhalten können.
                 </p>
                 <ul>
