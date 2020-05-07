@@ -109,7 +109,7 @@ h1.mask {
     background-image:url(../img/minus.svg); 
     background-size:contain; 
     background-repeat:no-repeat; 
-    display: inline;
+    display: inline-block;
     width: 10px; 
     height: 20px;
     padding-left: 1.5em;
@@ -122,7 +122,7 @@ h1.mask {
     background-image:url(../img/plus.svg); 
     background-size:contain; 
     background-repeat:no-repeat; 
-    display: inline;
+    display: inline-block;
     width: 10px; 
     height: 20px;
     padding-left: 1.5em;
