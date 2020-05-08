@@ -60,6 +60,9 @@ Hier finden Sie ihn."/>
             <div class="fouricon">
                 <img src="img/alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-troepfchen-foto-07.jpg" alt="alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-troepfchen" style="width:100%">
             </div>
+            <div class="fouricon">
+                <img src="img/alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-troepfchen-foto-08.jpg" alt="alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-troepfchen" style="width:100%">
+            </div>
         </article>    
     </section>
         
