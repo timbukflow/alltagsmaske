@@ -47,10 +47,10 @@ Hier finden Sie ihn."/>
             
                 <ul>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
-                    <li class="title">2’000<span>Fr. 0.85</span></li>
-                    <li class="title">6’000<span>Fr. 0.82</span></li>
-                    <li class="title">10’000<span>Fr. 0.72</span></li>
-                    <li class="title">36’000<span>Fr. 0.59</span></li>
+                    <li class="title">2’000<span>Fr. 1.10</span></li>
+                    <li class="title">6’000<span>Fr. 0.97</span></li>
+                    <li class="title">10’000<span>Fr. 0.92</span></li>
+                    <li class="title">36’000<span>Fr. 0.85</span></li>
                 </ul>
                 <p class="preiszusatz">Verpackung: Box à 50 Stück<br>Preise: in CHF, zuzüglich Porto und 7,7 % MWST</p>
             </div>
