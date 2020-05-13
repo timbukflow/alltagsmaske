@@ -26,7 +26,7 @@ Hier finden Sie ihn."/>
                 <p class="wichtig"><b>Bakterienfiltrationseffizienz BFE ≥96 %</b></p>
                 <ul>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
-                    <li class="title">2’000<span>Fr. 1.10</span></li>
+                    <li class="title">2’000<span>Fr. 0.63</span></li>
                     <li class="title">6’000<span>Fr. 0.58</span></li>
                     <li class="title">10’000<span>Fr. 0.53</span></li>
                     <li class="title">36’000<span>Fr. 0.49</span></li>
