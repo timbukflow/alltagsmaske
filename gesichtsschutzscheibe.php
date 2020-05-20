@@ -29,7 +29,7 @@ Hier finden Sie ihn."/>
                     <li class="title">grössere Mengen<span>auf Anfrage</span></li>
                     <li class="title">Lieferfrist<span>sofort ab Lager</span></li>
                 </ul>
-            <p class="preiszusatz">Preise: 1 - 49 Set zuzüglich Porto, inklusive MWST<br> ≥50 Set zuzüglich Porto und 7.7 % MWST<br><b>Erhältlich auch bei Apotheken und Drogerien in Ihrer Region sowie bei allen PANETARIUM-Filialen.</b></p>
+            <p class="preiszusatz">Preise: 1 - 49 Set zuzüglich Porto, inklusive MWST<br> ≥50 Set zuzüglich Porto und 7.7 % MWST<br><br><b>Erhältlich auch bei Apotheken und Drogerien in Ihrer Region sowie bei allen PANETARIUM-Filialen.</b></p>
             </div>
         </article>    
     </section>
