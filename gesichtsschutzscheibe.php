@@ -29,7 +29,7 @@ Hier finden Sie ihn."/>
                     <li class="title">grössere Mengen<span>auf Anfrage</span></li>
                     <li class="title">Lieferfrist<span>sofort ab Lager</span></li>
                 </ul>
-            <p class="preiszusatz">Preise: 1 - 49 Set zuzüglich Porto, inklusive MWST<br> ≥50 Set zuzüglich Porto und 7.7 % MWST<br><b>Erhältlich auch bei Apotheken und Drogerien in Ihrer Region.</b></p>
+            <p class="preiszusatz">Preise: 1 - 49 Set zuzüglich Porto, inklusive MWST<br> ≥50 Set zuzüglich Porto und 7.7 % MWST<br><b>Erhältlich auch bei Apotheken und Drogerien in Ihrer Region sowie bei allen PANETARIUM-Filialen.</b></p>
             </div>
         </article>    
     </section>
@@ -39,6 +39,12 @@ Hier finden Sie ihn."/>
             <h1>Zeigen Sie Ihr unverhülltes Gesicht.</h1>
             <p>Die wiederverwendbare Schutzscheibe passt auf jede Brille. Sie ist ideal im ÖV, beim Arbeiten, Einkaufen und überall wo Sie den Abstand zu den Mitmenschen nicht sicher einhalten können.
             </p>
+            <div class="fouricon">
+                <img src="img/alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-panetarium-foto-09.jpg" alt="alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-panetarium" style="width:100%">
+            </div>
+            <div class="fouricon">
+                <img src="img/alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-alltersheim-foto-010.jpg" alt="alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-alltersheim" style="width:100%">
+            </div>
             <div class="fouricon">
                 <img src="img/alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-troepfchen-foto-01.jpg" alt="alltagsmasken-covid-19-hygienemasken-virenschutzscheibe-troepfchen" style="width:100%">
             </div>
