@@ -359,6 +359,10 @@ section {
     display: inline-block;
 }
 
+.newscontainer {
+    margin: 40px 0px;
+}
+
 /*---------------------------------- 
     footer
 -----------------------------------*/

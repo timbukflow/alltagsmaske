@@ -68,6 +68,22 @@ Hier finden Sie ihn."/>
             </div>
         </article>    
     </section>
+    <section>
+        <article> 
+            <h1>Medienberichte </h1>
+            <h2>Alltagsmaske in den Medien</h2>
+            <div class="newscontainer">
+                <a href="http://wn.zehnder.ch/eweb/media/wn/2020/05/22/pdf/22_05_2020_wnfu_1_ab704bd383.pdf" target="_blank">
+                    <img src="img/alltagsmasken-covid-19-wiler-nachrichten-news.jpg" alt="wiler-nachrichten-news" style="width:100%">
+                </a>
+            </div>
+            <div class="newscontainer">
+                <a href="http://wn.zehnder.ch/eweb/media/wn/2020/05/22/pdf/22_05_2020_wnfu_3_18cd6ebfb5.pdf" target="_blank">
+                    <img src="img/alltagsmasken-covid-19-wiler-nachrichten-region-news.jpg" alt="wiler-nachrichten-news" style="width:100%">
+                </a>
+            </div>
+        </article>    
+    </section>
         
     <?php include 'footer.php'; ?>
     <?php include 'script.php'; ?>
