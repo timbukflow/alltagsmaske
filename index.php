@@ -68,7 +68,7 @@ Hier finden Sie ihn."/>
                     <img src="img/alltagsmasken-covid-19-einweg-hygienemaske.svg" alt="alltagsmasken-covid-19-einweg-hygienemaske" style="width:100%">
                     <h1 class="productb">Einweg-Hygienemaske</h1>
                 </a>
-                <h1>Möchten Sie sich wirklich so vermummen?</h1>
+                <h1>Möchten Sie sich so vermummen?</h1>
                 <p>Die Einweg-Hygienemaske kostet viel pro Anwendung, weil sie nach kurzer Zeit durchfeuchtet ist und entsorgt werden muss. Sie ist aus wirtschaftlichen und ökologischen Aspekten ein Unsinn.			
                 </p>
                 <ul>
