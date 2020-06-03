@@ -15,7 +15,8 @@
         <div class="nav">
             <ul>
                 <li><a href="index">Alltagsmaske</a></li>
-                <li><a href="gesichtsschutzscheibe">Gesichtsschutzscheibe</a></li>
+                <li><a href="gesichtsschutzscheibe">Gesichtsschutzscheibe Swiss Made</a></li>
+                <li><a href="mehrweg-hygienemaske">Mehrweg-Hygienemaske Swiss Made</a></li>
                 <li><a href="einweg-hygienemaske">Einweg-Hygienemasken</a></li>
             </ul>
         </div>
