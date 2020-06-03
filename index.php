@@ -47,7 +47,7 @@ Hier finden Sie ihn."/>
                     <img src="img/alltagsmasken-covid-19-mehrweg-hygienemaske.svg" alt="alltagsmasken-covid-19-mehrweg-hygienemaske" style="width:100%">
                     <h1 class="productb">Mehrweg-Hygienemaske</h1>
                 </a>
-                <h1>Möchten Sie sich elegant schützen</h1>
+                <h1>Möchten Sie sich elegant schützen?</h1>
                 <p>Die Mehrweg-Hygienemasken werden vom weltbekannten St. Galler Textilunternehmen Forster Rohner AG hergestellt. Als Branchenführer produziert Forster Rohner AG Stickereien für die Haute Couture, Prêt-à-Porter und Wäsche sowie Technische Textilien.<br><br>Die 3-lagigen Hygienemasken sind von der EMPA geprüft. Sie erfüllen die Anforderungen an Alltagsmasken nach der Empfehlung der Swiss National COVID-19 Science Task Force. 			
                 </p>
                 <ul>
