@@ -27,7 +27,7 @@ Hier finden Sie ihn."/>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
                     <li class="title">500 - 999 <span>Fr. 9.50</span></li>
                     <li class="title">1’000 - 9’999 <span>Fr. 7.70</span></li>
-                    <li class="title">ab 10’000 <span>Fr. 5.80</span></li>
+                    <li class="title">ab 10’000 <span>Fr. 6.30</span></li>
                 </ul>
             </div>
         </article>

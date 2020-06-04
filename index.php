@@ -44,22 +44,21 @@ Hier finden Sie ihn."/>
             </div>
             <div class="threeicon rr">
                 <a href="mehrweg-hygienemaske">
-                    <img src="img/alltagsmasken-covid-19-mehrweg-hygienemaske.svg" alt="alltagsmasken-covid-19-mehrweg-hygienemaske" style="width:100%">
+                    <img src="img/alltagsmasken-covid-19-mehrweg-hygienemaske.jpg" alt="alltagsmasken-covid-19-mehrweg-hygienemaske" style="width:100%">
                     <h1 class="productb">Mehrweg-Hygienemaske</h1>
                 </a>
                 <h1>Möchten Sie sich elegant schützen?</h1>
-                <p>Die Mehrweg-Hygienemasken werden vom weltbekannten St. Galler Textilunternehmen Forster Rohner AG hergestellt. Als Branchenführer produziert Forster Rohner AG Stickereien für die Haute Couture, Prêt-à-Porter und Wäsche sowie Technische Textilien.<br><br>Die 3-lagigen Hygienemasken sind von der EMPA geprüft. Sie erfüllen die Anforderungen an Alltagsmasken nach der Empfehlung der Swiss National COVID-19 Science Task Force. 			
+                <p>Die 3-lagigen Hygienemasken sind von der EMPA geprüft. Sie erfüllen die Anforderungen an Alltagsmasken nach der Empfehlung der Swiss National COVID-19 Science Task Force. 			
                 </p>
                 <ul>
                     <li class="title">Was zeichnet den Schutz aus?</li>
-                    <li class="plus">Hersteller: Forster Rohner AG St.Gallen</li>
-                    <li class="plus">Swiss Made oder Made in Europa (nach Wahl)</li>
                     <li class="plus">EMPA geprüft</li>
-                    <li class="plus">bestickt oder bedruckt mit Logo oder Design</li>
+                    <li class="plus">Swiss Made oder Made in Europa (nach Wahl)</li>
+                    <li class="plus">individuell bestickt oder bedruckt</li>
                     <li class="plus">einfarbig oder in modischen Designs</li>
                     <li class="plus">Fremdschutz</li>
                     <li class="plus">wiederverwendbar</li>
-                    <li class="plus">kann mindesten 20 Mal bei 60° C gewaschen werden </li>
+                    <li class="plus">mindestens 20 Mal bei 60° C waschbar</li>
                 </ul>
                 <div class="button"><a href="mehrweg-hygienemaske">zur Preisliste</a></div>
             </div>
