@@ -102,6 +102,9 @@ Hier finden Sie ihn."/>
                     <img src="img/alltagsmasken-covid-19-wiler-nachrichten-region-news.jpg" alt="wiler-nachrichten-news" style="width:100%">
                 </a>
             </div>
+            <div class="newscontainer">
+                    <img src="img/alltagsmasken-covid-19-schweizer-illustrierte-news.jpg" alt="alltagsmasken-covid-19-schweizer-illustrierte-news" style="width:100%">
+            </div>
         </article>    
     </section>
         
