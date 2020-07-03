@@ -26,11 +26,11 @@ Hier finden Sie ihn."/>
                 <p class="wichtig"><b>Bakterienfiltrationseffizienz BFE ≥96 %</b></p>
                 <ul>
                     <li class="menge">Bestellmenge/Stück<span>Preis</span></li>
-                    <li class="title">2’000<span>Fr. 0.58</span></li>
-                    <li class="title">6’000<span>Fr. 0.50</span></li>
-                    <li class="title">10’000<span>Fr. 0.49</span></li>
-                    <li class="title">36’000<span>Fr. 0.48</span></li>
-                    <li class="title">192’000<span>Fr. 0.46</span></li>
+                    <li class="title">2’000<span>Fr. 0.38</span></li>
+                    <li class="title">6’000<span>Fr. 0.35</span></li>
+                    <li class="title">10’000<span>Fr. 0.33</span></li>
+                    <li class="title">32’000<span>Fr. 0.31</span></li>
+                    <li class="title">192’000<span>Fr. 0.29</span></li>
                 </ul>
                 <p class="preiszusatz">Verpackung: Box à 50 Stück<br>Preise: in CHF, zuzüglich Porto und 7,7 % MWST</p>
             </div>

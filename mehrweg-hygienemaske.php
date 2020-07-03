@@ -67,7 +67,7 @@ Hier finden Sie ihn."/>
             <h1>Mehrweg-Hygienemaske uni</h1>
             <div class="twoicon">
                 <img src="img/alltagsmasken-covid-19-mehrweg-hygienemaske-forster-rohner-ag-st-gallen-uni.jpg" alt="alltagsmasken-covid-19-mehrweg-hygienemaske-forster-rohner-ag-st-gallen-uni" style="width:100%">
-                <h1 class="productb">Sofort lieferbar!</h1>
+                <h1 class="productb">Lieferfrist 2-3 Wochen</h1>
             </div>
             <div class="twoicon r">
                 <p class="wichtig">Die 3-lagigen Hygienemasken sind von der EMPA geprüft. Sie erfüllen die Anforderungen an Alltagsmasken nach der Empfehlung der Swiss National COVID-19 Science Task Force.</p>
