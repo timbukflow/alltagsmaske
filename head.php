@@ -45,7 +45,6 @@
 <meta property="business:contact_data:postal_code" content="9240">
 <meta property="business:contact_data:country_name" content="Switzerland">
 
-<meta name="google-site-verification" content="..." />
 <link rel="stylesheet" href="css/reset.css" />
 <link rel="stylesheet" href="css/style.css" />
 
